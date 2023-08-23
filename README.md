@@ -9,31 +9,21 @@ Once you complete the program, you’ll get access to the Meta Career Programs J
 
 In this program, you’ll learn:
 
-    Essential Android programming concepts and the tools needed to develop applications 
+- Essential Android programming concepts and the tools needed to develop applications 
 
-    How to use the Kotlin Playground 
+- How to use the Kotlin Playground 
 
-    Create user interfaces (UI) for mobile apps using Android Studio 
+- Create user interfaces (UI) for mobile apps using Android Studio 
 
-    Manage the lifecycle and data collections of mobile applications 
+- Manage the lifecycle and data collections of mobile applications 
 
-    Work with web technologies and persistent data on Android applications 
+- Work with web technologies and persistent data on Android applications 
 
-    Describe best practices for designing the UI and experience for mobile applications 
+- Describe best practices for designing the UI and experience for mobile applications
+  
+- Create cross-platform applications using React Native
 
-    Create cross-platform applications using React Native
+- Prepare for technical interviews for Android developer roles
 
-    Prepare for technical interviews for Android developer roles
 
-Any third-party trademarks and other intellectual property (including logos and icons) referenced in the learning experience remain the property of their respective owners. Unless specifically identified as such, Coursera’s use of third-party intellectual property does not indicate any relationship, sponsorship, or endorsement between Coursera and the owners of these trademarks or other intellectual property.
-Applied Learning Project
 
-You’ll engage in hands-on activities and build a project-based portfolio that you can show to recruiters and potential employers when interviewing. Throughout each course, you’ll complete activities using use a lab environment or an application to perform tasks such as: 
-
-    Design the UI using Interface Builder 
-
-    Create simple UI using the Layout Editor 
-
-    Build a native Android mobile app 
-
-In the final course, you will also complete a Capstone project where you will create an Android app. 
