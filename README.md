@@ -1,6 +1,4 @@
-# Meta Android Developer Professional Certificate
-
-About this Professional Certificate
+## Meta Android Developer Professional Certificate (12 course series)
 
 
 Have you ever wanted to build your own mobile app? This Professional Certificate will teach you the top Android programming languages and frameworks. By the end, you’ll create your own Android application. 
